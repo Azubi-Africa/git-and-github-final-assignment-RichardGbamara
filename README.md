@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | First_Azubi_Assignment             |  First_Azubi_Assignment       | https://github.com/RichardGbamara/First_Azubi_Assignment       |
+| 2 |  Second_Azubi_Assignment            |  Azubi_second_project            | https://github.com/RichardGbamara/Azubi_second_project       |
+| 3 |  Azubi_third_project             |  Azubi_third_project           | https://github.com/RichardGbamara/Azubi_third_project#azubi_third_project      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
